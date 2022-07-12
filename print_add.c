@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_add - prints the address of an input variable
+ * print_add - prints the address of an input variable result
  * @arguments: input address.
  * @buf: buffer pointer.
  * @ibuf: index for buffer pointer

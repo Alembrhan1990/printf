@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_rot - writes the str in ROT13
+ * print_rot - writes the str in ROT13 form
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
